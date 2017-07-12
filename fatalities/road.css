@@ -1,0 +1,43 @@
+
+body{
+	background-color: black;
+	padding-top: .5em;
+}
+
+
+
+h2, h3{color:white;}
+
+
+#car,#car2,#car3{
+    height: auto;
+    padding-top:1em; 
+    position: absolute;
+}
+.road{
+	text-align: center;
+}
+
+
+
+.months {
+	float: left;
+	background-color:yellow;
+    border: 2px solid yellow; 
+    margin: 1em .5em 0em .5em;
+    width: 5.5%;
+    text-align:center;
+}
+
+.row{
+	margin: 0 auto;
+}
+
+
+#begin{
+	margin-left: 0%;
+}
+
+.counter,.counter2,.counter3{color:white;
+	display:block;
+}
