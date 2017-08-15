@@ -1,3 +1,4 @@
+
 $('.arrow').on('click', function(){
 	$('#intro').hide(300);
 	$('#graphic').fadeIn(600);
@@ -477,3 +478,11 @@ var interval=setInterval(function(){
 		clearInterval(interval)
 	}
 }, 3000);
+
+
+
+
+
+
+
+
